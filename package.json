@@ -1,0 +1,24 @@
+{
+  "name": "learn-webpack",
+  "version": "1.0.0",
+  "description": "学习 webpack demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xinyflove/learn-webpack.git"
+  },
+  "keywords": [
+    "学习webpack",
+    "webpack",
+    "demo"
+  ],
+  "author": "Peak Xin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xinyflove/learn-webpack/issues"
+  },
+  "homepage": "https://github.com/xinyflove/learn-webpack#readme"
+}
